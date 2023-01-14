@@ -47,10 +47,9 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 # Education
 ## University of Washington (Seattle, WA)
+##### Data Science & Geographic Information System
 
-* [University of Washington][4 year pulbic research university] description, particularly if not well-known.*
-
-** Position Title : Data Scientist** (09/2019 - 03/2024)
+###### Position Title : Data Scientist (09/2019 - 03/2024)
 
 ##### Summary of your role
 ###### As a data science student at the University of Washington, my role would likely involve learning about various techniques and tools used in data analysis and modeling, including programming languages like Python and R, statistical methods, machine learning, and data visualization. I may also be required to complete coursework in related fields such as computer science, mathematics, and statistics. Additionally, I may have the opportunity to participate in research projects or internships to gain hands-on experience in the field.
