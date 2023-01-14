@@ -1,4 +1,5 @@
 # Haochen Miao
+![Image Name](assets/img/4.jpg)
 
 haochen.miao2000@gmail.com
 
@@ -8,7 +9,9 @@ https://www.linkedin.com/in/haochen-miao-250166196/
 
 # Summary
 
-## As a highly skilled and experienced data scientist, I am well-equipped to excel in any role that requires the analysis and interpretation of complex data sets. My background in statistics, computer science and machine learning, along with my experience working with large-scale data sets, has prepared me well for the rigors of a data science position.I have a strong track record of delivering results, as evidenced by my experience working on a variety of data science projects. I am a quick learner, and I am able to quickly understand the unique requirements of each project and develop effective solutions to complex problems.In addition to my technical skills, I am also an excellent communicator, able to clearly and effectively explain my findings to both technical and non-technical stakeholders. I am a team player and I am able to work effectively with colleagues from a variety of backgrounds and skill sets.I am a proactive, self-motivated individual who is always looking for ways to improve my skills and knowledge. I am excited about the opportunity to bring my skills and experience to your organization, and I am confident that I would be able to make a valuable contribution to your data science team.
+###### As a highly skilled and experienced data scientist, I am well-equipped to excel in any role that requires the analysis and interpretation of complex data sets. My background in statistics, computer science and machine learning, along with my experience working with large-scale data sets, has prepared me well for the rigors of a data science position.I have a strong track record of delivering results, as evidenced by my experience working on a variety of data science projects. I am a quick learner, and I am able to quickly understand the unique requirements of each project and develop effective solutions to complex problems. 
+   “Big data is at the foundation of all the megatrends that are happening.” – By Chris Lynch, American Writer of Books
+###### In addition to my technical skills, I am also an excellent communicator, able to clearly and effectively explain my findings to both technical and non-technical stakeholders. I am a team player and I am able to work effectively with colleagues from a variety of backgrounds and skill sets.I am a proactive, self-motivated individual who is always looking for ways to improve my skills and knowledge. I am excited about the opportunity to bring my skills and experience to your organization, and I am confident that I would be able to make a valuable contribution to your data science team.
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
 
@@ -47,14 +50,14 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 * [University of Washington][4 year pulbic research university] description, particularly if not well-known.*
 
-** Position Title : Data Scientist (include alternate titles in parentheses)** (09/2019 - 03/2024)
+** Position Title : Data Scientist** (09/2019 - 03/2024)
 
-Summary of your role
-##### As a data science student at the University of Washington, my role would likely involve learning about various techniques and tools used in data analysis and modeling, including programming languages like Python and R, statistical methods, machine learning, and data visualization. I may also be required to complete coursework in related fields such as computer science, mathematics, and statistics. Additionally, I may have the opportunity to participate in research projects or internships to gain hands-on experience in the field.
+##### Summary of your role
+###### As a data science student at the University of Washington, my role would likely involve learning about various techniques and tools used in data analysis and modeling, including programming languages like Python and R, statistical methods, machine learning, and data visualization. I may also be required to complete coursework in related fields such as computer science, mathematics, and statistics. Additionally, I may have the opportunity to participate in research projects or internships to gain hands-on experience in the field.
 
 - Accomplishment that contains **bold text**.
 - Accomplishment **Dean's List**
 - Accomplishment **Honors Roll**
 
 
-[University 1]: https://www.washington.edu/
+[University of Washington (official)](https://www.washington.edu/)
